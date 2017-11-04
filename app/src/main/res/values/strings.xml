@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Sunshine Indonesia</string>
+    <string name="weather_day_title">sunday</string>
+    <string name="weather_desc">Hujan Rintik Rintik</string>
+    <string name="weather_temperature">17 Derajat Celcius</string>
 </resources>
