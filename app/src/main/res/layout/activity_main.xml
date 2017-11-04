@@ -37,13 +37,15 @@
                 <ImageView
                     android:layout_width="@dimen/img_weather_width"
                     android:layout_height="@dimen/img_weather_height"
-                    android:src="@drawable/weather_img" />
+                    android:src="@drawable/weather_img"
+                    android:id="@+id/img_weather"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:text="@string/weather_desc" />
+                    android:text="@string/weather_desc"
+                    android:id="@+id/weather_desc"/>
             </LinearLayout>
 
             <TextView
